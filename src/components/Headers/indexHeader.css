@@ -1,0 +1,14 @@
+#titlename{
+    font-size: 450%;
+}
+
+.santifoto{
+    width: 150px;
+     height: 150px;
+    display:block;
+    margin:auto;
+  }
+
+#fondo{
+    background-image: url("../../assets/img/developer4.jpg");
+}

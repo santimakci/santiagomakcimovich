@@ -1,0 +1,12 @@
+.logosm{
+    height: 50px;
+    opacity: 50%;
+}
+
+.nombre{
+    margin-top: -200px;
+}
+
+.logosm:hover{
+    opacity: 100%;
+}
